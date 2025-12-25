@@ -1,0 +1,7 @@
+{
+  "name": "iCC基于品牌生成素材",
+  "description": "A sophisticated AI-powered toolkit for F&B brands to analyze brand identity and generate high-end acquisition materials for private domain operations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
